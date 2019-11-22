@@ -1,0 +1,9 @@
+C:\Users\Rafamus\source\repos\SciCalRafa\SciCalRafa\bin\Debug\SciCalRafa.exe.config
+C:\Users\Rafamus\source\repos\SciCalRafa\SciCalRafa\bin\Debug\SciCalRafa.exe
+C:\Users\Rafamus\source\repos\SciCalRafa\SciCalRafa\bin\Debug\SciCalRafa.pdb
+C:\Users\Rafamus\source\repos\SciCalRafa\SciCalRafa\obj\Debug\SciCalRafa.csprojAssemblyReference.cache
+C:\Users\Rafamus\source\repos\SciCalRafa\SciCalRafa\obj\Debug\SciCalRafa.Form1.resources
+C:\Users\Rafamus\source\repos\SciCalRafa\SciCalRafa\obj\Debug\SciCalRafa.Properties.Resources.resources
+C:\Users\Rafamus\source\repos\SciCalRafa\SciCalRafa\obj\Debug\SciCalRafa.csproj.GenerateResource.cache
+C:\Users\Rafamus\source\repos\SciCalRafa\SciCalRafa\obj\Debug\SciCalRafa.exe
+C:\Users\Rafamus\source\repos\SciCalRafa\SciCalRafa\obj\Debug\SciCalRafa.pdb
